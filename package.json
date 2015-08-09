@@ -1,5 +1,5 @@
 {
-  "name": "swagger-client",
+  "name": "@adextent/swagger-client",
   "author": "Tony Tam <fehguy@gmail.com>",
   "contributors": [
     {
@@ -36,7 +36,7 @@
     "jquery": "^2.1.3",
     "js-yaml": "^3.3.0",
     "lodash-compat": "^3.5.0",
-    "superagent": "^1.2"
+    "superagent": "=1.2"
   },
   "devDependencies": {
     "async": "^0.9.0",
